@@ -1,0 +1,13 @@
+html, body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color:teal;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
