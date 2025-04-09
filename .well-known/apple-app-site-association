@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "9Q2A3F7E3C.com.fcc.fccmobilecustomer.dev",
+                    "9Q2A3F7E3C.com.fcc.fccmobilecustomer.test"
+                ],
+                "components": [
+                    {
+                        "/": "*",
+                        "comment": "This is a comment"
+                    }
+                ]
+            }
+        ]
+    }
+}
