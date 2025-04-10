@@ -11,7 +11,11 @@
                     "73597B6N6V.com.fcc.fccmobilecustomer",
                     "73597B6N6V.com.fcc.fccmobilecustomer.dev",
                     "73597B6N6V.com.fcc.fccmobilecustomer.staging",
-                    "73597B6N6V.com.fcc.fccmobilecustomer.test"
+                    "73597B6N6V.com.fcc.fccmobilecustomer.test",
+                    "B95X83H9JA.com.fcc.fccmobilecustomer",
+                    "B95X83H9JA.com.fcc.fccmobilecustomer.dev",
+                    "B95X83H9JA.com.fcc.fccmobilecustomer.staging",
+                    "B95X83H9JA.com.fcc.fccmobilecustomer.test"
                 ],
                 "components": [
                     {
