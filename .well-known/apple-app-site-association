@@ -4,8 +4,14 @@
         "details": [
             {
                 "appIDs": [
-                    "9Q2A3F7E3C.com.fcc.fccmobilecustomer.dev",
-                    "9Q2A3F7E3C.com.fcc.fccmobilecustomer.test"
+                    "ca.fcc.fccmobilecustomer",
+                    "ca.fcc.fccmobilecustomer.dev",
+                    "ca.fcc.fccmobilecustomer.staging",
+                    "ca.fcc.fccmobilecustomer.test",
+                    "73597B6N6V.com.fcc.fccmobilecustomer",
+                    "73597B6N6V.com.fcc.fccmobilecustomer.dev",
+                    "73597B6N6V.com.fcc.fccmobilecustomer.staging",
+                    "73597B6N6V.com.fcc.fccmobilecustomer.test"
                 ],
                 "components": [
                     {
