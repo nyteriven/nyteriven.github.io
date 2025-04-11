@@ -4,18 +4,18 @@
         "details": [
             {
                 "appIDs": [
-                    "ca.fcc.fccmobilecustomer",
                     "ca.fcc.fccmobilecustomer.dev",
-                    "ca.fcc.fccmobilecustomer.staging",
                     "ca.fcc.fccmobilecustomer.test",
-                    "73597B6N6V.com.fcc.fccmobilecustomer",
-                    "73597B6N6V.com.fcc.fccmobilecustomer.dev",
-                    "73597B6N6V.com.fcc.fccmobilecustomer.staging",
-                    "73597B6N6V.com.fcc.fccmobilecustomer.test",
-                    "B95X83H9JA.com.fcc.fccmobilecustomer",
-                    "B95X83H9JA.com.fcc.fccmobilecustomer.dev",
-                    "B95X83H9JA.com.fcc.fccmobilecustomer.staging",
-                    "B95X83H9JA.com.fcc.fccmobilecustomer.test"
+                    "ca.fcc.fccmobilecustomer.staging",
+                    "ca.fcc.fccmobilecustomer",
+                    "73597B6N6V.ca.fcc.fccmobilecustomer.dev",
+                    "73597B6N6V.ca.fcc.fccmobilecustomer.test",
+                    "73597B6N6V.ca.fcc.fccmobilecustomer.staging",
+                    "73597B6N6V.ca.fcc.fccmobilecustomer",
+                    "B95X83H9JA.ca.fcc.fccmobilecustomer.dev",
+                    "B95X83H9JA.ca.fcc.fccmobilecustomer.test",
+                    "B95X83H9JA.ca.fcc.fccmobilecustomer.staging",
+                    "B95X83H9JA.ca.fcc.fccmobilecustomer"
                 ],
                 "components": [
                     {
